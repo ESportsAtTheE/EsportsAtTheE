@@ -68,11 +68,11 @@ body {
   display: inline-block;
   vertical-align: middle;
   margin-left: 20px;
-  background: url("/signup/images/next-page.svg");
+  background: url("https://jdniki.github.io/signup/images/next-page.svg");
   background-size: contain;
 }
 .container .sign-form #next-page:hover {
-  background: url("/signup/images/next-pagehover.svg");
+  background-image: ("https://jdniki.github.io/signup/images/next-pagehover.svg");
   background-size: contain;
 }
 .container .sign-form .questions {
