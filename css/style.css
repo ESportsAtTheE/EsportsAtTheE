@@ -68,7 +68,7 @@ body {
   display: inline-block;
   vertical-align: middle;
   margin-left: 20px;
-  background: url("https://jdniki.github.io/signup/images/next-page.svg");
+  background-image: url("../../GithubE/images/next-page.png");
   background-size: contain;
 }
 .container .sign-form #next-page:hover {
