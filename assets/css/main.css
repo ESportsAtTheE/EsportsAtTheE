@@ -2592,6 +2592,7 @@
 
 	#main > section {
 		border-top: solid 6px #f4f4f4;
+
 	}
 
 		#main > section > .container {
@@ -2600,6 +2601,7 @@
 
 		#main > section:first-child {
 			border-top: 0;
+			
 		}
 
 /* One */
@@ -2612,8 +2614,8 @@
 		content: '';
 		display: block;
 		height: 15em;
-		width: 75%;
-		padding-left: 5em;
+		width: 65%;
+	
 	}
 
 /* Footer */
