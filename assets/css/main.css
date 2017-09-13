@@ -2613,6 +2613,7 @@
 		display: block;
 		height: 15em;
 		width: 75%;
+		padding-left: 5em;
 	}
 
 /* Footer */
@@ -3093,3 +3094,4 @@
 			}
 
 	}
+
