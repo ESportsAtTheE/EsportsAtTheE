@@ -54,6 +54,7 @@
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
+
 	}
 
 /* Containers */
@@ -2596,7 +2597,7 @@
 	}
 
 		#main > section > .container {
-			padding: 6em 0 10em 0;
+			padding: 6em 0 4em 0;
 		}
 
 		#main > section:first-child {
@@ -2608,7 +2609,7 @@
 
 	#one:before {
 		background-image: url("../../images/NewEmeraldBanner.png");
-		background-position: top right;
+		background-position: top padding-left;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
@@ -2868,6 +2869,7 @@
 						top: 0;
 						width: 64px;
 						right: 0;
+
 					}
 
 			body.header-visible #wrapper, body.header-visible #titleBar {
