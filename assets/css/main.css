@@ -2445,6 +2445,11 @@
 			.features article .inner > :last-child {
 				margin-bottom: 0;
 			}
+/* Imagelink */	
+			.features article .imagelink img {
+				display: inline-block;
+				width: 50%;
+			}
 
 /* Header */
 
