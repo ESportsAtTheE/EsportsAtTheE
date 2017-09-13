@@ -2796,6 +2796,7 @@
 
 			#one:before {
 				height: 10em;
+				padding-left: 10em
 			}
 
 		/* Off-Canvas Navigation */
