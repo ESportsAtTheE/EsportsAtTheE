@@ -2587,6 +2587,7 @@
 	#wrapper {
 		background: #fff;
 		padding-right: 23em;
+		padding-left: 5px;
 	}
 
 /* Main */
@@ -2609,7 +2610,7 @@
 
 	#one:before {
 		background-image: url("../../images/NewEmeraldBanner.png");
-		background-position: top padding-left;
+		background-position: top;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
