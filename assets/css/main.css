@@ -2279,14 +2279,15 @@
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background-color: #989898;
-		border-radius: 5px;
+		border-radius: 10px;
 		border: 0;
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 700;
-		height: 2.75em;
-		line-height: 2.75em;
+		height: 3em;
+		font-size: 2em;
+		line-height: 3em;
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
