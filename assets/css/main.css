@@ -2712,7 +2712,8 @@
 		/* Wrapper */
 
 			#wrapper {
-				padding-right: 20em;
+				padding-right: 20em
+				padding-left: 1em;
 			}
 
 	}
