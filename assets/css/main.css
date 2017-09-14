@@ -2029,7 +2029,7 @@
 				border-radius: 100%;
 				display: block;
 				width: 100%;
-				
+
 
 			}
 
@@ -2714,8 +2714,8 @@
 		/* Wrapper */
 
 			#wrapper {
-				padding-right: 20em
-				padding-left: 1em;
+				padding-right: 20em;
+				
 			}
 
 	}
@@ -2793,7 +2793,7 @@
 				-webkit-transition: -webkit-transform 0.5s ease;
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
-				padding: 44px 0 .8px 0;
+				padding: 44px 0 1px 0;
 			}
 
 		/* One */
