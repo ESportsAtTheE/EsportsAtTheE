@@ -2441,7 +2441,7 @@
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
-			width: 50%;
+			width: 60%;
 		}
 
 			.features article .inner > :last-child {
