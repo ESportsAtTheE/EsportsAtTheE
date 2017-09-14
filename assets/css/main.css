@@ -2611,9 +2611,9 @@
 
 	#one:before {
 		background-image: url("../../images/Esportsbanner.png");
-		background-position: top right;
+		background-position: top center;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: contain;
 		content: '';
 		display: block;
 		height: 15em;
