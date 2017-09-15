@@ -1997,6 +1997,7 @@
 			display: block;
 		}
 
+
 		.image.left {
 			float: left;
 			margin: 0 2.5em 2em 0;
@@ -2603,7 +2604,7 @@
 	}
 
 		#main > section > .container {
-			padding: 1em 0 4em 0;
+			padding: 1em 0 0 0;
 		}
 
 		#main > section:first-child {
