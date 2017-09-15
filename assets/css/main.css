@@ -2507,6 +2507,7 @@
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
 			padding: 3em;
+			padding-top: 1em;
 		}
 
 			#header > header .avatar {
