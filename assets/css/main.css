@@ -2009,10 +2009,7 @@
 			top: 0.25em;
 		}
 
-		.image.center img {
-			float: center;
-		}
-
+	
 		.image.fit {
 			display: block;
 			margin: 0 0 2.25em 0;
@@ -2510,13 +2507,13 @@
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			padding: 3em;
+			padding: 1em;
 			padding-top: 1em;
 		}
 
 			#header > header .avatar {
 				display: block;
-				margin: 0 auto 2.25em auto;
+				margin: 0 auto .25em auto;
 				width: 8em;
 			}
 
@@ -2528,7 +2525,7 @@
 			#header > header p {
 				color: #d1f1e9;
 				font-style: italic;
-				margin: 1em 0 0 0;
+				margin: .2em 0 0 0;
 			}
 
 		#header > footer {
