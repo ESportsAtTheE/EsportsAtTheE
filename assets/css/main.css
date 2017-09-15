@@ -2010,7 +2010,7 @@
 		}
 
 		.image.center img {
-			margin: auto;
+			float: center;
 		}
 
 		.image.fit {
