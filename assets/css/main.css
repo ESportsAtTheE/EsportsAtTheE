@@ -2604,7 +2604,7 @@
 	}
 
 		#main > section > .container {
-			padding: 1em 0 0 0;
+			padding: 1em 0 4em 0;
 		}
 
 		#main > section:first-child {
@@ -2625,6 +2625,7 @@
 		width: 100%;
 	
 	}
+	
 
 /* Footer */
 
