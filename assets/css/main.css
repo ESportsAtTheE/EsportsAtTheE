@@ -2013,7 +2013,11 @@
 	
 		.image.fit {
 			display: block;
+<<<<<<< HEAD
 			margin: 2em 2em 2.25em 2em;
+=======
+			margin: 0 0 2em 0;
+>>>>>>> b0f9fff63b60ed50b107c6312dbfa4b431489b8b
 			width: 100%;
 		}
 
